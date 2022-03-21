@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raztor</h1>
-<h3 align="center">Experimentando desde Chile.</h3>
+<h3 align="center">Testing from Chile.</h3>
 
 - 🔭 I'm currently working on [SIDEAM (Object recognition on TF)](https://github.com/Raztorr/SIDEAM)
 
