@@ -1,4 +1,6 @@
-  
+<h1 align="center">Hi 👋, I'm Raztor</h1>
+<h3 align="center">Testing from Chile.</h3>
+ 
 
 ### <div align="center">I'm Raztor, a computer science like engeneer student 🤖 and a freelancer since 2018 🚀</div>  
   
@@ -78,21 +80,20 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=raztorr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=raztorr&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raztorr&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raztorr&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=benjaxsp&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=benjaxsp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
@@ -102,6 +103,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
