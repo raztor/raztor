@@ -2,7 +2,7 @@
 <h3 align="center">Testing from Chile.</h3>
  
 
-### <div align="center">I'm a computer science like engeneer student 🤖 and a freelancer since 2018 🚀</div>  
+### <div align="center">I'm a computer science like engineer student 🤖 and a freelancer since 2018 🚀</div>  
 
 ---
   
