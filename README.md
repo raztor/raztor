@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning cascade's, OpenCV, Kubernetes and Cisco Networking.  
   
 
-- ❓ Ask me about anything related to Networking, Linux, Python, Docker and Machine Learning and related technologies  
+- ❓ Ask me about anything related to Networking, Linux, Python, Docker, Machine Learning and related technologies  
   
 
 - ⚡ Fun fact: I prefer Jetbrains IDE  
