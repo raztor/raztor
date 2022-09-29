@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raztor</h1>
 <h3 align="center">Testing from Chile.</h3>
- 
 
 ### <div align="center">I'm a STEM student 🤖 and a freelancer since 2018 🚀</div>  
 
 ---
-  
+  ![](https://komarev.com/ghpvc/?username=raztor)
 
 - 🔭 I’m currently working on [SIDEAM](https://github.com/raztorr/SIDEAM)  
   
