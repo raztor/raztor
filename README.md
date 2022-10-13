@@ -75,9 +75,18 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
+
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
+
+---
+
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
