@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raztor/Tel_102_CPP](https://github.com/raztor/Tel_102_CPP)
-2. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-3. ⬆️ Pushed 1 commit(s) to [raztor/Tel_102_CPP](https://github.com/raztor/Tel_102_CPP)
+1. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+2. ⬆️ Pushed 1 commit(s) to [raztor/Tel_102_CPP](https://github.com/raztor/Tel_102_CPP)
+3. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 4. ⬆️ Pushed 1 commit(s) to [raztor/Tel_102_CPP](https://github.com/raztor/Tel_102_CPP)
-5. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+5. ⬆️ Pushed 1 commit(s) to [raztor/Tel_102_CPP](https://github.com/raztor/Tel_102_CPP)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 6:44:20 PM
+Last Updated: Monday, November 14th, 2022, 7:08:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
