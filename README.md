@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
-2. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+1. ⬆️ Pushed 1 commit(s) to [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
+2. ⬆️ Pushed 2 commit(s) to [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
 3. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-4. ⬆️ Pushed 1 commit(s) to [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
-5. ⬆️ Pushed 2 commit(s) to [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
+4. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+5. ⬆️ Pushed 1 commit(s) to [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 7th, 2022, 4:11:43 PM
+Last Updated: Wednesday, December 7th, 2022, 4:44:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
