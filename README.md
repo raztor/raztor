@@ -81,14 +81,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [raztor/USM-ebook](https://github.com/raztor/USM-ebook)
-2. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-3. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-4. ⬆️ Pushed 1 commit(s) to [raztor/Python-Tel101](https://github.com/raztor/Python-Tel101)
-5. ⬆️ Pushed 1 commit(s) to [raztor/Python-Tel101](https://github.com/raztor/Python-Tel101)
+2. ✔️ Closed issue [#3](https://github.com/raztor/proyecto-tel102/issues/3) in [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
+3. ✌️ Released [Release 3.0.0 (Final)](https://github.com/raztor/proyecto-tel102/releases/tag/v3.0.0) in [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
+4. ✌️ Released [Release 2.0.0](https://github.com/raztor/proyecto-tel102/releases/tag/v2.0.0) in [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
+5. ⬆️ Pushed 35 commit(s) to [raztor/proyecto-tel102](https://github.com/raztor/proyecto-tel102)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 17th, 2022, 12:40:15 AM
+Last Updated: Saturday, December 17th, 2022, 2:03:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
