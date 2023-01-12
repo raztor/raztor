@@ -101,7 +101,7 @@ Last Updated: Thursday, January 12th, 2023, 10:08:33 PM
 <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raztor&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?/top-langs/?username=raztor&hide_border=true&layout=compact&theme=github_dark" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raztor&hide_border=true&layout=compact&theme=github_dark" align="center" style="width: 100%" /></div>
 </td></tr></table>    
 
 <br/>  
