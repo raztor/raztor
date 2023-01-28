@@ -111,17 +111,17 @@ Last Updated: Saturday, January 28th, 2023, 6:33:56 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
+🌞 Morning    98 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
 🌆 Daytime    137 commits    ██████░░░░░░░░░░░░░░░░░░░   26.05% 
 🌃 Evening    171 commits    ████████░░░░░░░░░░░░░░░░░   32.51% 
-🌙 Night      121 commits    █████░░░░░░░░░░░░░░░░░░░░   23.0%
+🌙 Night      120 commits    █████░░░░░░░░░░░░░░░░░░░░   22.81%
 
 ```
 
@@ -146,7 +146,7 @@ Windows                  4 mins              ███████████�
 ```
 
 
- Last Updated on 27/01/2023 18:39:28 UTC
+ Last Updated on 28/01/2023 18:37:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
