@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [parker-stephens/pirate-perfection](https://github.com/parker-stephens/pirate-perfection)
-2. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+1. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+2. ⭐ Starred [parker-stephens/pirate-perfection](https://github.com/parker-stephens/pirate-perfection)
 3. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 4. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 5. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 3rd, 2023, 6:36:46 PM
+Last Updated: Friday, February 3rd, 2023, 7:06:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
