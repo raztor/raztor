@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+1. ⬆️ Pushed 1 commit(s) to [raztor/ELO-322](https://github.com/raztor/ELO-322)
 2. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
-3. 📔 Created new repository [raztor/ELO-322](https://github.com/raztor/ELO-322)
-4. ⭐ Starred [polivares/ELO329](https://github.com/polivares/ELO329)
-5. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+3. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+4. 📔 Created new repository [raztor/ELO-322](https://github.com/raztor/ELO-322)
+5. ⭐ Starred [polivares/ELO329](https://github.com/polivares/ELO329)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 21st, 2023, 9:07:35 PM
+Last Updated: Tuesday, March 21st, 2023, 9:32:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
