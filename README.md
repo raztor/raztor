@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raztor/ELO-322](https://github.com/raztor/ELO-322)
-2. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+1. ⭐ Starred [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
+2. ⬆️ Pushed 1 commit(s) to [raztor/ELO-322](https://github.com/raztor/ELO-322)
 3. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
-4. 📔 Created new repository [raztor/ELO-322](https://github.com/raztor/ELO-322)
-5. ⭐ Starred [polivares/ELO329](https://github.com/polivares/ELO329)
+4. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+5. 📔 Created new repository [raztor/ELO-322](https://github.com/raztor/ELO-322)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 26th, 2023, 7:32:25 PM
+Last Updated: Sunday, March 26th, 2023, 8:07:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
