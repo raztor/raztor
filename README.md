@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Yhatoh/INF134-Data_Structures](https://github.com/Yhatoh/INF134-Data_Structures)
-2. ⭐ Starred [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
-3. ⬆️ Pushed 1 commit(s) to [raztor/ELO-322](https://github.com/raztor/ELO-322)
-4. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+1. ⭐ Starred [RikkertTheDeveloper/Java-Structure-Template](https://github.com/RikkertTheDeveloper/Java-Structure-Template)
+2. ⭐ Starred [Yhatoh/INF134-Data_Structures](https://github.com/Yhatoh/INF134-Data_Structures)
+3. ⭐ Starred [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
+4. ⬆️ Pushed 1 commit(s) to [raztor/ELO-322](https://github.com/raztor/ELO-322)
 5. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 29th, 2023, 3:32:50 AM
+Last Updated: Wednesday, March 29th, 2023, 4:10:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
