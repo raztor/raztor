@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/polivares/ELO329/pull/1) in [polivares/ELO329](https://github.com/polivares/ELO329)
-2. ⭐ Starred [RikkertTheDeveloper/Java-Structure-Template](https://github.com/RikkertTheDeveloper/Java-Structure-Template)
-3. ⭐ Starred [Yhatoh/INF134-Data_Structures](https://github.com/Yhatoh/INF134-Data_Structures)
-4. ⭐ Starred [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
-5. ⬆️ Pushed 1 commit(s) to [raztor/ELO-322](https://github.com/raztor/ELO-322)
+1. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+2. 💪 Opened PR [#1](https://github.com/polivares/ELO329/pull/1) in [polivares/ELO329](https://github.com/polivares/ELO329)
+3. ⭐ Starred [RikkertTheDeveloper/Java-Structure-Template](https://github.com/RikkertTheDeveloper/Java-Structure-Template)
+4. ⭐ Starred [Yhatoh/INF134-Data_Structures](https://github.com/Yhatoh/INF134-Data_Structures)
+5. ⭐ Starred [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 3rd, 2023, 8:32:51 PM
+Last Updated: Monday, April 3rd, 2023, 9:06:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
