@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-2. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-3. 💪 Opened PR [#1](https://github.com/polivares/ELO329/pull/1) in [polivares/ELO329](https://github.com/polivares/ELO329)
-4. ⭐ Starred [RikkertTheDeveloper/Java-Structure-Template](https://github.com/RikkertTheDeveloper/Java-Structure-Template)
-5. ⭐ Starred [Yhatoh/INF134-Data_Structures](https://github.com/Yhatoh/INF134-Data_Structures)
+1. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+2. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+3. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+4. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+5. 💪 Opened PR [#1](https://github.com/polivares/ELO329/pull/1) in [polivares/ELO329](https://github.com/polivares/ELO329)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 13th, 2023, 3:32:40 PM
+Last Updated: Thursday, April 13th, 2023, 4:08:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
