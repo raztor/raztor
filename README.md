@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+1. ❌ Closed PR [#1](https://github.com/polivares/ELO329/pull/1) in [polivares/ELO329](https://github.com/polivares/ELO329)
 2. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
 3. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
-4. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-5. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+4. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+5. ⭐ Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 23rd, 2023, 7:06:58 AM
+Last Updated: Sunday, April 23rd, 2023, 7:32:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
