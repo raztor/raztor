@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
+1. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
 2. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
 3. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
 4. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
-5. ❌ Closed PR [#1](https://github.com/polivares/ELO329/pull/1) in [polivares/ELO329](https://github.com/polivares/ELO329)
+5. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 27th, 2023, 8:08:23 PM
+Last Updated: Thursday, April 27th, 2023, 8:32:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
