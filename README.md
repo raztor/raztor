@@ -80,15 +80,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
+1. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 2. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
-3. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
+3. ⬆️ Pushed 1 commit(s) to [raztor/EDA](https://github.com/raztor/EDA)
 4. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
 5. ⬆️ Pushed 1 commit(s) to [raztor/POO-Tarea1](https://github.com/raztor/POO-Tarea1)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 2nd, 2023, 7:32:23 PM
+Last Updated: Tuesday, May 2nd, 2023, 8:08:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
