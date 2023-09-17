@@ -80,12 +80,13 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-2. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+1. ⭐ Starred [VRPirates/rookie](https://github.com/VRPirates/rookie)
+2. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+3. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 17th, 2023, 8:07:28 PM
+Last Updated: Sunday, September 17th, 2023, 8:32:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
