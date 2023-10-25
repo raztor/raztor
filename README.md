@@ -81,11 +81,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [VRPirates/rookie](https://github.com/VRPirates/rookie)
-2. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 25th, 2023, 4:32:52 AM
+Last Updated: Wednesday, October 25th, 2023, 5:07:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
