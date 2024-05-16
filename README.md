@@ -5,12 +5,7 @@
 
 ---
   ![](https://komarev.com/ghpvc/?username=raztor)
-
-- 🔭 I’m currently working on [SIDEAM](https://github.com/raztorr/SIDEAM)  
-  
-
-- 🌱 I’m currently learning cascade's, OpenCV, Kubernetes and Cisco Networking.  
-  
+    
 
 - ❓ Ask me about anything related to Networking, Linux, Python, Docker, Machine Learning and related technologies  
   
