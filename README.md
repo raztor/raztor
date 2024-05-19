@@ -77,12 +77,12 @@
 1. ⬆️ Pushed 1 commit(s) to [raztor/pihole-list](https://github.com/raztor/pihole-list)
 2. ⬆️ Pushed 1 commit(s) to [raztor/pihole-list](https://github.com/raztor/pihole-list)
 3. ⬆️ Pushed 1 commit(s) to [raztor/pihole-list](https://github.com/raztor/pihole-list)
-4. 📔 Created new repository [raztor/pihole-list](https://github.com/raztor/pihole-list)
-5. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
+4. ⬆️ Pushed 1 commit(s) to [raztor/pihole-list](https://github.com/raztor/pihole-list)
+5. 📔 Created new repository [raztor/pihole-list](https://github.com/raztor/pihole-list)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 19th, 2024, 4:11:21 AM
+Last Updated: Sunday, May 19th, 2024, 4:35:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
