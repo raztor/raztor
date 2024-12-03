@@ -74,15 +74,10 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
-2. ⬆️ Pushed 2 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
-3. ⬆️ Pushed 4 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
-4. ⬆️ Pushed 1 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
-5. ⬆️ Pushed 1 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 3rd, 2024, 2:38:58 PM
+Last Updated: Tuesday, December 3rd, 2024, 3:11:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
