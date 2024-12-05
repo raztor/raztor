@@ -75,12 +75,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
-2. ⬆️ Pushed 2 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
-3. ⬆️ Pushed 4 commit(s) to [raztor/Lab_Fis_1_2024-2](https://github.com/raztor/Lab_Fis_1_2024-2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 5th, 2024, 5:11:56 AM
+Last Updated: Thursday, December 5th, 2024, 5:39:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
