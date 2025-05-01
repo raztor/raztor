@@ -69,15 +69,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MMoreira9451/HorariosLabInf](https://github.com/MMoreira9451/HorariosLabInf)
-2. ⬆️ Pushed 1 commit(s) to [MMoreira9451/HorariosLabInf](https://github.com/MMoreira9451/HorariosLabInf)
+1. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+2. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
 3. ⬆️ Pushed 1 commit(s) to [MMoreira9451/HorariosLabInf](https://github.com/MMoreira9451/HorariosLabInf)
 4. ⬆️ Pushed 1 commit(s) to [MMoreira9451/HorariosLabInf](https://github.com/MMoreira9451/HorariosLabInf)
 5. ⬆️ Pushed 1 commit(s) to [MMoreira9451/HorariosLabInf](https://github.com/MMoreira9451/HorariosLabInf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 1st, 2025, 1:04:06 AM
+Last Updated: Thursday, May 1st, 2025, 2:58:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
