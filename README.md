@@ -69,15 +69,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1865](https://github.com/meshtastic/meshtastic/pull/1865#issuecomment-2908490278) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
-2. ⬆️ Pushed 2 commit(s) to [raztor/meshtastic](https://github.com/raztor/meshtastic)
-3. 🎉 Merged PR [#1](https://github.com/raztor/meshtastic/pull/1) in [raztor/meshtastic](https://github.com/raztor/meshtastic)
-4. 💪 Opened PR [#1](https://github.com/raztor/meshtastic/pull/1) in [raztor/meshtastic](https://github.com/raztor/meshtastic)
-5. ⬆️ Pushed 1 commit(s) to [raztor/meshtastic](https://github.com/raztor/meshtastic)
+1. ⬆️ Pushed 2 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+2. 🎉 Merged PR [#1](https://github.com/Informatica-uaint/HorariosLabInf/pull/1) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+3. 💪 Opened PR [#1](https://github.com/Informatica-uaint/HorariosLabInf/pull/1) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+4. ⬆️ Pushed 68 commit(s) to [raztor/HorariosLabInf](https://github.com/raztor/HorariosLabInf)
+5. ⬆️ Pushed 1 commit(s) to [raztor/HorariosLabInf](https://github.com/raztor/HorariosLabInf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 26th, 2025, 11:36:12 PM
+Last Updated: Tuesday, May 27th, 2025, 12:58:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
