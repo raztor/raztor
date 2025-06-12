@@ -69,15 +69,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1887](https://github.com/meshtastic/meshtastic/pull/1887#issuecomment-2964124096) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
-2. 💪 Opened PR [#1887](https://github.com/meshtastic/meshtastic/pull/1887) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
-3. ⬆️ Pushed 1 commit(s) to [raztor/meshtastic](https://github.com/raztor/meshtastic)
-4. ⬆️ Pushed 1 commit(s) to [raztor/meshtastic](https://github.com/raztor/meshtastic)
-5. ⬆️ Pushed 19 commit(s) to [raztor/meshtastic](https://github.com/raztor/meshtastic)
+1. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+2. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+3. 💬 Commented on [#1887](https://github.com/meshtastic/meshtastic/pull/1887#issuecomment-2964474493) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
+4. 💬 Commented on [#1887](https://github.com/meshtastic/meshtastic/pull/1887#issuecomment-2964124096) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
+5. 💪 Opened PR [#1887](https://github.com/meshtastic/meshtastic/pull/1887) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 2:57:35 AM
+Last Updated: Thursday, June 12th, 2025, 3:45:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
