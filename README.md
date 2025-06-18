@@ -69,15 +69,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [raztor/pangolin](https://github.com/raztor/pangolin) from [fosrl/pangolin](https://github.com/fosrl/pangolin)
-2. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-3. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-4. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-5. ⬆️ Pushed 2 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+1. 🔱 Forked [raztor/meshtastic-map](https://github.com/raztor/meshtastic-map) from [liamcottle/meshtastic-map](https://github.com/liamcottle/meshtastic-map)
+2. 💪 Opened PR [#1896](https://github.com/meshtastic/meshtastic/pull/1896) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
+3. ⬆️ Pushed 1 commit(s) to [Meshtastic-Chile/meshtastic](https://github.com/Meshtastic-Chile/meshtastic)
+4. ⬆️ Pushed 1 commit(s) to [Meshtastic-Chile/meshtastic](https://github.com/Meshtastic-Chile/meshtastic)
+5. ❌ Closed PR [#1887](https://github.com/meshtastic/meshtastic/pull/1887) in [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 18th, 2025, 4:15:30 PM
+Last Updated: Wednesday, June 18th, 2025, 4:48:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
