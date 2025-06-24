@@ -69,15 +69,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 0 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-2. ⬆️ Pushed 0 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+1. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+2. ✌️ Released [V1.0](https://github.com/Informatica-uaint/HorariosLabInf/releases/tag/Latest) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
 3. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
 4. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-5. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+5. ⬆️ Pushed 0 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 24th, 2025, 12:25:06 PM
+Last Updated: Tuesday, June 24th, 2025, 1:07:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
