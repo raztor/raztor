@@ -77,7 +77,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 18th, 2025, 6:50:21 PM
+Last Updated: Friday, July 18th, 2025, 6:18:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -87,10 +87,10 @@ Last Updated: Friday, July 18th, 2025, 6:50:21 PM
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raztor&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://readme-stats-rouge-eight.vercel.app/api?username=raztor&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
-<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raztor&hide_border=true&layout=compact&theme=github_dark" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://readme-stats-rouge-eight.vercel.app/api/top-langs/?username=raztor&hide_border=true&layout=compact&theme=github_dark" align="center" style="width: 100%" /></div>
 </td></tr></table>    
 
 <br/>  
@@ -148,7 +148,7 @@ Windows                  13 mins             ███████████�
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=benjaxsp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=benjaxsp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
