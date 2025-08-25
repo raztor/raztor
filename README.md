@@ -69,15 +69,15 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Mesh-Chile/.github](https://github.com/Mesh-Chile/.github)
-2. 📔 Created new repository [Mesh-Chile/.github](https://github.com/Mesh-Chile/.github)
-3. ⬆️ Pushed 1 commit(s) to [raztor/GH-webhook-deployment-system](https://github.com/raztor/GH-webhook-deployment-system)
-4. 📔 Created new repository [raztor/GH-webhook-deployment-system](https://github.com/raztor/GH-webhook-deployment-system)
-5. ⬆️ Pushed 1 commit(s) to [Mesh-Chile/web-flasher](https://github.com/Mesh-Chile/web-flasher)
+1. ⬆️ Pushed 1 commit(s) to [Mesh-Chile/assets](https://github.com/Mesh-Chile/assets)
+2. ⬆️ Pushed 1 commit(s) to [Mesh-Chile/assets](https://github.com/Mesh-Chile/assets)
+3. ⬆️ Pushed 1 commit(s) to [Mesh-Chile/assets](https://github.com/Mesh-Chile/assets)
+4. ⬆️ Pushed 1 commit(s) to [Mesh-Chile/assets](https://github.com/Mesh-Chile/assets)
+5. 📔 Created new repository [Mesh-Chile/assets](https://github.com/Mesh-Chile/assets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 24th, 2025, 11:35:24 PM
+Last Updated: Monday, August 25th, 2025, 1:00:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
