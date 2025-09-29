@@ -87,14 +87,14 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-2. ⬆️ Pushed 2 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+2. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 3. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-4. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-5. ⬆️ Pushed 1 commit(s) to [raztor/FDCD-Tareas](https://github.com/raztor/FDCD-Tareas)
+4. ⬆️ Pushed 2 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+5. ⬆️ Pushed 1 commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 28th, 2025, 11:32:56 PM
+Last Updated: Monday, September 29th, 2025, 12:57:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
