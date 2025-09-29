@@ -6,15 +6,15 @@
     
 
 ## 💫 About Me:
-I am a Computer Engineering student passionate about **system architecture, cloud infrastructure, and software development**. My work spans backend and frontend projects using **Python, JavaScript/TypeScript, and Node.js**, as well as **React/Expo** for mobile and web applications. I have solid experience with **Linux servers (Debian/RHEL), Docker, Kubernetes, NGINX, containerization, and virtualization**, which I combine to design scalable and reliable systems.  
+I am a Computer Engineering student passionate about **system architecture, cloud infrastructure, and software development**. I have experience in backend and frontend development with **Python, JavaScript/TypeScript, Node.js, and React/Expo**, as well as solid knowledge of **Linux servers, Docker, Kubernetes, NGINX, containerization, and virtualization** for building scalable and reliable systems.  
 
-I emphasize **clean architecture, automation, and documentation** as foundations for long-term maintainability. I frequently use **CI/CD pipelines with GitHub Actions** to streamline development workflows, improve collaboration, and ensure deployment consistency across projects.  
+I emphasize **clean architecture, automation, and documentation** as foundations for maintainability, using **CI/CD pipelines** to improve workflows and ensure consistency.  
 
-Beyond coding, I am deeply involved in **open-source and community initiatives**. I founded **MeshChile**, the first Meshtastic organization in Chile, where I manage the infrastructure for MQTT servers, NGINX, and related services. I am also an active contributor to **mountaineering safety projects**, applying technologies such as **APRS, Meshtastic, and LoRa** to enhance outdoor communication and security.  
+Beyond coding, I am engaged in **open-source and community initiatives**. I founded **MeshChile**, the first Meshtastic organization in Chile, and contribute to **mountaineering safety projects** applying technologies like **APRS, Meshtastic, and LoRa** to outdoor communication and security.  
 
-My journey combines **technical expertise, leadership, and practical application** of technology. From managing academic infrastructure to building community-driven platforms and designing enterprise-level systems, I strive to deliver solutions that are not only functional but also impactful, reliable, and maintainable.  
+My journey combines **technical expertise, leadership, and real-world application of technology**, from managing academic infrastructure to community platforms and enterprise-level systems.  
 
-### 🚀 Current Focus
+### 🚀 Current Focus  
 - Cloud-native systems & DevOps practices  
 - Open-source collaboration & community projects  
 - IoT and LoRa-based communication networks  
