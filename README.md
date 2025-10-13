@@ -86,15 +86,15 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
-2. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
-3. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
-4. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-5. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+1. ⬆️ Pushed 1 commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
+2. ⬆️ Pushed 1 commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
+3. ⬆️ Pushed 1 commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
+4. 📔 Created new repository [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
+5. ⬆️ Pushed 1 commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 13th, 2025, 3:37:39 AM
+Last Updated: Monday, October 13th, 2025, 4:14:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
