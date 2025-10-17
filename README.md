@@ -86,15 +86,15 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
+1. ⬆️ Pushed undefined commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 2. ⬆️ Pushed undefined commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
 3. ⬆️ Pushed undefined commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
 4. ⬆️ Pushed undefined commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
-5. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
+5. ⬆️ Pushed undefined commit(s) to [raztor/raztor_on_activity](https://github.com/raztor/raztor_on_activity)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 17th, 2025, 6:42:56 PM
+Last Updated: Friday, October 17th, 2025, 7:09:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
