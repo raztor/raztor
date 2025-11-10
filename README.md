@@ -86,15 +86,15 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+1. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
 2. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
-3. ⬆️ Pushed undefined commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
-4. ⬆️ Pushed undefined commit(s) to [raztor/proyecto-leng-paradigmas](https://github.com/raztor/proyecto-leng-paradigmas)
+3. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+4. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
 5. ⬆️ Pushed undefined commit(s) to [raztor/raztor](https://github.com/raztor/raztor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 10th, 2025, 10:12:03 PM
+Last Updated: Monday, November 10th, 2025, 10:39:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
