@@ -86,15 +86,15 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#13](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-2. 💪 Opened PR [#13](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-3. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
-4. ❌ Closed PR [#12](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-5. 💪 Opened PR [#12](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+1. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
+2. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
+3. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+4. ❌ Closed PR [#13](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+5. 💪 Opened PR [#13](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 21st, 2025, 9:10:37 PM
+Last Updated: Friday, November 21st, 2025, 9:35:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
