@@ -87,14 +87,14 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
-2. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+2. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
 3. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
 4. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-5. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/lector-qr-web](https://github.com/Informatica-uaint/lector-qr-web)
+5. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 22nd, 2025, 4:13:22 PM
+Last Updated: Saturday, November 22nd, 2025, 4:41:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
