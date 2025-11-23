@@ -87,14 +87,14 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
-2. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/acceso_qr_dinamico](https://github.com/Informatica-uaint/acceso_qr_dinamico)
-3. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
+2. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
+3. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/acceso_qr_dinamico](https://github.com/Informatica-uaint/acceso_qr_dinamico)
 4. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
-5. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/acceso_qr_dinamico](https://github.com/Informatica-uaint/acceso_qr_dinamico)
+5. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 23rd, 2025, 6:17:36 AM
+Last Updated: Sunday, November 23rd, 2025, 6:46:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
