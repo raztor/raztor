@@ -86,15 +86,15 @@ My journey combines **technical expertise, leadership, and real-world applicatio
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#11](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-2. ❌ Closed PR [#10](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-3. ❌ Closed PR [#7](undefined) in [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-4. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
-5. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/HorariosLabInf](https://github.com/Informatica-uaint/HorariosLabInf)
+1. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/acceso_qr_dinamico](https://github.com/Informatica-uaint/acceso_qr_dinamico)
+2. ⬆️ Pushed undefined commit(s) to [Informatica-uaint/acceso_qr_dinamico](https://github.com/Informatica-uaint/acceso_qr_dinamico)
+3. ❌ Closed PR [#11](undefined) in [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
+4. ❌ Closed PR [#10](undefined) in [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
+5. ❌ Closed PR [#7](undefined) in [Informatica-uaint/App_Acceso_lab](https://github.com/Informatica-uaint/App_Acceso_lab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 23rd, 2025, 1:07:49 AM
+Last Updated: Sunday, November 23rd, 2025, 3:09:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
