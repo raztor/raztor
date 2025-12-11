@@ -122,7 +122,7 @@ Last Updated: Thursday, December 11th, 2025, 6:51:49 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-660.2%20thousand%20lines%20of%20code-blue)
 
@@ -140,20 +140,26 @@ Last Updated: Thursday, December 11th, 2025, 6:51:49 PM
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     32 mins             ██████████████░░░░░░░░░░░   54.26 % 
+JSON                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+GitExclude file          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  58 mins             █████████████████████████   99.48 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Summary_Ministerio_Model-58 mins             █████████████████████████   99.48 % 
+app-acceso               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/12/2025 18:50:36 UTC
+ Last Updated on 11/12/2025 18:53:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
