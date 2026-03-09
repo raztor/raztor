@@ -122,7 +122,7 @@ Last Updated: Monday, March 9th, 2026, 6:39:48 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.21%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,21 +140,24 @@ Last Updated: Monday, March 9th, 2026, 6:39:48 PM
 
 ```text
 💬 Programming Languages: 
-YAML                     10 mins             █████████████░░░░░░░░░░░░   53.05 % 
-Markdown                 9 mins              ████████████░░░░░░░░░░░░░   46.95 % 
+.env file                23 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+YAML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Image (svg)              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 
 🔥 Editors: 
-WebStorm                 20 mins             █████████████████████████   100.00 % 
+WebStorm                 1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        20 mins             █████████████████████████   100.00 % 
+clubes-montanismo        1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 19:07:16 UTC
+ Last Updated on 09/03/2026 19:13:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
