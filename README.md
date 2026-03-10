@@ -122,7 +122,7 @@ Last Updated: Tuesday, March 10th, 2026, 6:36:15 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.21%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,24 +140,24 @@ Last Updated: Tuesday, March 10th, 2026, 6:36:15 PM
 
 ```text
 💬 Programming Languages: 
-.env file                23 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-YAML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Image (svg)              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+.env file                40 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
+HTML                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Image (svg)              13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 20 mins        █████████████████████████   100.00 % 
+WebStorm                 2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        1 hr 20 mins        █████████████████████████   100.00 % 
+clubes-montanismo        2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2026 19:13:40 UTC
+ Last Updated on 10/03/2026 19:12:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
