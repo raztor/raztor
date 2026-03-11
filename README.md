@@ -122,7 +122,7 @@ Last Updated: Wednesday, March 11th, 2026, 6:42:32 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.21%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,24 +140,26 @@ Last Updated: Wednesday, March 11th, 2026, 6:42:32 PM
 
 ```text
 💬 Programming Languages: 
-.env file                40 mins             ████████░░░░░░░░░░░░░░░░░   31.45 % 
-HTML                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Image (svg)              13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+.env file                48 mins             █████████░░░░░░░░░░░░░░░░   36.41 % 
+HTML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Image (svg)              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 8 mins        █████████████████████████   100.00 % 
+WebStorm                 1 hr 48 mins        ████████████████████░░░░░   81.98 % 
+PyCharm                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        2 hrs 8 mins        █████████████████████████   100.00 % 
+clubes-montanismo        1 hr 48 mins        ████████████████████░░░░░   81.98 % 
+cont-cajas               23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/03/2026 19:12:07 UTC
+ Last Updated on 11/03/2026 19:14:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
