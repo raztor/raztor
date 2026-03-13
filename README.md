@@ -122,7 +122,7 @@ Last Updated: Friday, March 13th, 2026, 6:35:33 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.21%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,26 +140,26 @@ Last Updated: Friday, March 13th, 2026, 6:35:33 PM
 
 ```text
 💬 Programming Languages: 
-.env file                52 mins             ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Python                   48 mins             ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Image (svg)              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+HTML                     1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+.env file                52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 5 mins        █████████████████░░░░░░░░   67.50 % 
-PyCharm                  1 hr                ████████░░░░░░░░░░░░░░░░░   32.50 % 
+WebStorm                 3 hrs 34 mins       ███████████████████░░░░░░   77.98 % 
+PyCharm                  1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        2 hrs 5 mins        █████████████████░░░░░░░░   67.50 % 
-cont-cajas               1 hr                ████████░░░░░░░░░░░░░░░░░   32.50 % 
+clubes-montanismo        3 hrs 34 mins       ███████████████████░░░░░░   77.98 % 
+cont-cajas               1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
 
 💻 Operating System: 
-Mac                      3 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/03/2026 19:14:56 UTC
+ Last Updated on 13/03/2026 19:06:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
