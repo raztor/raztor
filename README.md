@@ -122,7 +122,7 @@ Last Updated: Wednesday, March 18th, 2026, 6:47:37 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.21%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,29 +140,29 @@ Last Updated: Wednesday, March 18th, 2026, 6:47:37 PM
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-.env file                59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+YAML                     1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   33.93 % 
+.env file                59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 53 mins       █████████████████████░░░░   82.92 % 
-PyCharm                  1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+WebStorm                 5 hrs 7 mins        ██████████████████████░░░   87.76 % 
+PyCharm                  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🐱‍💻 Projects: 
-Temporis-CICD            2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
-clubes-montanismo        1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.82 % 
-cont-cajas               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-temporis-admin           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-temporis-indicadores     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Temporis-CICD            2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
+clubes-montanismo        2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
+cont-cajas               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+temporis-admin           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+temporis-indicadores     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Mac                      5 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 19:32:42 UTC
+ Last Updated on 18/03/2026 19:28:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
