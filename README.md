@@ -122,17 +122,17 @@ Last Updated: Tuesday, March 24th, 2026, 6:50:55 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.21%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-🌆 Daytime                253 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.86 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+🌆 Daytime                254 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.82 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 ```
 
 
@@ -140,30 +140,30 @@ Last Updated: Tuesday, March 24th, 2026, 6:50:55 PM
 
 ```text
 💬 Programming Languages: 
-.env file                1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-TypeScript               1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Python                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+TypeScript               1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+.env file                1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Python                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 8 mins        ████████████████████░░░░░   79.56 % 
-PyCharm                  1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+WebStorm                 5 hrs 50 mins       ████████████████████░░░░░   78.76 % 
+PyCharm                  1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
 CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.16 % 
-cont-cajas               1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Temporis-CICD            1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-coffeshop-calidad        55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-coffe-shop-app           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+clubes-montanismo        3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.70 % 
+cont-cajas               1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+coffeshop-calidad        55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+diseno-software          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+coffe-shop-app           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 19:25:45 UTC
+ Last Updated on 24/03/2026 19:33:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
