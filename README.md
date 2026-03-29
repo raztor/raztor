@@ -122,7 +122,7 @@ Last Updated: Sunday, March 29th, 2026, 6:29:43 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.22%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,29 +140,29 @@ Last Updated: Sunday, March 29th, 2026, 6:29:43 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-HTML                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-.env file                34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-C                        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-C/C++                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TypeScript               1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+.env file                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+GitIgnore file           33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+C                        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 13 mins       ████████████████████░░░░░   81.25 % 
-CLion                    58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+WebStorm                 5 hrs 25 mins       █████████████████████░░░░   84.80 % 
+CLion                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 
 🐱‍💻 Projects: 
-Temporis-Back            1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-test                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-coffeshop-calidad        55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-diseno-software          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-demo2                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+S211-P10-TicketMain      1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Temporis-Back            1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+test                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+diseno-software          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+demo2                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 💻 Operating System: 
-Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 19:05:16 UTC
+ Last Updated on 29/03/2026 19:07:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
