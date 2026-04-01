@@ -122,7 +122,7 @@ Last Updated: Wednesday, April 1st, 2026, 7:34:09 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.22%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,29 +140,29 @@ Last Updated: Wednesday, April 1st, 2026, 7:34:09 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-C                        46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-GitIgnore file           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-.env file                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-C/C++                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+TypeScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+C                        44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+GitIgnore file           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+.env file                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 
 🔥 Editors: 
-WebStorm                 5 hrs 6 mins        ████████████████████░░░░░   79.57 % 
-CLion                    1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+WebStorm                 5 hrs 31 mins       █████████████████████░░░░   82.37 % 
+CLion                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 
 🐱‍💻 Projects: 
-S211-P10-TicketMain      2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-Temporis-Back            1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-test                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-demo2                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-clubes-montanismo        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+S211-P10-TicketMain      2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+Temporis-Back            1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+test                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+clubes-montanismo        45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+demo2                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 💻 Operating System: 
-Mac                      6 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 19:32:33 UTC
+ Last Updated on 01/04/2026 19:35:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
