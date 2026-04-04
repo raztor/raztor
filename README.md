@@ -140,29 +140,29 @@ Last Updated: Saturday, April 4th, 2026, 6:29:06 PM
 
 ```text
 💬 Programming Languages: 
-GitIgnore file           49 mins             ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-.env file                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+GitIgnore file           59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 10 mins       ███████████████████████░░   90.28 % 
-CLion                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+WebStorm                 4 hrs 49 mins       ███████████████████████░░   93.40 % 
+CLion                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🐱‍💻 Projects: 
-S211-P10-TicketMain      2 hrs 39 mins       ███████████████████░░░░░░   76.00 % 
-clubes-montanismo        27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-test                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-coffe-shop-app           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+S211-P10-TicketMain      2 hrs 39 mins       █████████████░░░░░░░░░░░░   51.59 % 
+clubes-montanismo        2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.14 % 
+test                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+diseno-software          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 19:09:39 UTC
+ Last Updated on 04/04/2026 19:06:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
