@@ -140,29 +140,28 @@ Last Updated: Monday, April 6th, 2026, 6:43:57 PM
 
 ```text
 💬 Programming Languages: 
-JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-TypeScript               35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-GitIgnore file           26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+TypeScript               35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+GitIgnore file           26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 55 mins       ██████████████████████░░░   89.56 % 
-CLion                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+WebStorm                 2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        2 hrs               ███████████████░░░░░░░░░░   61.53 % 
-S211-P10-TicketMain      52 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-test                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-diseno-software          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+clubes-montanismo        2 hrs               █████████████████░░░░░░░░   68.70 % 
+S211-P10-TicketMain      52 mins             ████████░░░░░░░░░░░░░░░░░   30.11 % 
+app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+diseno-software          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/04/2026 19:08:39 UTC
+ Last Updated on 06/04/2026 19:34:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
