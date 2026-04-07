@@ -140,28 +140,27 @@ Last Updated: Tuesday, April 7th, 2026, 6:51:16 PM
 
 ```text
 💬 Programming Languages: 
-JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-TypeScript               35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-GitIgnore file           26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+JSON                     44 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
+TypeScript               35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+GitIgnore file           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 55 mins       █████████████████████████   100.00 % 
+WebStorm                 2 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        2 hrs               █████████████████░░░░░░░░   68.70 % 
-S211-P10-TicketMain      52 mins             ████████░░░░░░░░░░░░░░░░░   30.11 % 
-app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-diseno-software          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+clubes-montanismo        2 hrs               █████████████████████░░░░   82.83 % 
+S211-P10-TicketMain      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 19:34:33 UTC
+ Last Updated on 07/04/2026 19:35:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
