@@ -140,27 +140,26 @@ Last Updated: Wednesday, April 8th, 2026, 7:03:51 PM
 
 ```text
 💬 Programming Languages: 
-JSON                     44 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
-TypeScript               35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-GitIgnore file           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JSON                     36 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+TypeScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+GitIgnore file           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 25 mins       █████████████████████████   100.00 % 
+WebStorm                 2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        2 hrs               █████████████████████░░░░   82.83 % 
-S211-P10-TicketMain      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+clubes-montanismo        1 hr 40 mins        █████████████████████░░░░   83.30 % 
+S211-P10-TicketMain      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 19:35:41 UTC
+ Last Updated on 08/04/2026 19:45:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
