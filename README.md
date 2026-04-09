@@ -140,26 +140,24 @@ Last Updated: Thursday, April 9th, 2026, 6:51:55 PM
 
 ```text
 💬 Programming Languages: 
-JSON                     36 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-TypeScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-GitIgnore file           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JSON                     31 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
+TypeScript               26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+GitIgnore file           10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs               █████████████████████████   100.00 % 
+WebStorm                 1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        1 hr 40 mins        █████████████████████░░░░   83.30 % 
-S211-P10-TicketMain      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-app-cipe                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+clubes-montanismo        1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs               █████████████████████████   100.00 % 
+Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/04/2026 19:45:06 UTC
+ Last Updated on 09/04/2026 19:44:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
