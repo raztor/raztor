@@ -122,7 +122,7 @@ Last Updated: Saturday, April 11th, 2026, 6:31:45 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.24%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,24 +140,25 @@ Last Updated: Saturday, April 11th, 2026, 6:31:45 PM
 
 ```text
 💬 Programming Languages: 
-JSON                     31 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
-TypeScript               26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-GitIgnore file           10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JSON                     7 mins              ███████████████░░░░░░░░░░   61.15 % 
+HTML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 41 mins        █████████████████████████   100.00 % 
+WebStorm                 12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        1 hr 41 mins        █████████████████████████   100.00 % 
+S211-P10-TicketMain      11 mins             ███████████████████████░░   93.59 % 
+clubes-montanismo        0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 19:44:28 UTC
+ Last Updated on 11/04/2026 19:09:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
