@@ -129,10 +129,10 @@ Last Updated: Friday, April 17th, 2026, 6:45:19 PM
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌆 Daytime                258 commits         ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.64 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+🌆 Daytime                259 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
 ```
 
 
@@ -140,28 +140,29 @@ Last Updated: Friday, April 17th, 2026, 6:45:19 PM
 
 ```text
 💬 Programming Languages: 
-Other                    49 mins             ██████████████░░░░░░░░░░░   56.80 % 
-TypeScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+TypeScript               2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Other                    1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 27 mins        █████████████████████████   100.00 % 
+WebStorm                 6 hrs 3 mins        ██████████████████████░░░   89.01 % 
+CLion                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 
 🐱‍💻 Projects: 
-coffe-shop-agentes       1 hr 4 mins         ███████████████████░░░░░░   74.24 % 
-S211-P10-TicketMain      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-coffe-shop-cotizaciones  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-diseno-software          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-temporis-indicadores     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+S211-P10-TicketMain      5 hrs 7 mins        ███████████████████░░░░░░   75.28 % 
+coffe-shop-agentes       1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+tarea1-sudoku-juegos-com-25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+coffe-shop-cotizaciones  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+diseno-software          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2026 19:48:19 UTC
+ Last Updated on 17/04/2026 19:36:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
