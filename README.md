@@ -122,7 +122,7 @@ Last Updated: Monday, April 20th, 2026, 6:53:31 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.24%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,29 +140,29 @@ Last Updated: Monday, April 20th, 2026, 6:53:31 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Other                    1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+Other                    1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 3 mins        ███████████████████░░░░░░   77.13 % 
-CLion                    1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+WebStorm                 6 hrs 2 mins        ███████████████████░░░░░░   77.08 % 
+CLion                    1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 
 🐱‍💻 Projects: 
-S211-P10-TicketMain      5 hrs 7 mins        ████████████████░░░░░░░░░   65.23 % 
-tarea1-sudoku-juegos-com-1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-coffe-shop-agentes       1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-coffe-shop-cotizaciones  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+S211-P10-TicketMain      5 hrs 7 mins        ████████████████░░░░░░░░░   65.37 % 
+tarea1-sudoku-juegos-com-1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+coffe-shop-agentes       1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+coffe-shop-cotizaciones  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 diseno-software          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      7 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 19:12:28 UTC
+ Last Updated on 20/04/2026 19:38:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
