@@ -140,29 +140,28 @@ Last Updated: Tuesday, April 21st, 2026, 6:59:32 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Other                    1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+Markdown                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+C                        1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 2 mins        ███████████████████░░░░░░   77.08 % 
-CLion                    1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+WebStorm                 4 hrs 50 mins       ███████████████░░░░░░░░░░   59.17 % 
+CLion                    3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
 
 🐱‍💻 Projects: 
-S211-P10-TicketMain      5 hrs 7 mins        ████████████████░░░░░░░░░   65.37 % 
-tarea1-sudoku-juegos-com-1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-coffe-shop-agentes       1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-coffe-shop-cotizaciones  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-diseno-software          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+S211-P10-TicketMain      5 hrs 8 mins        ████████████████░░░░░░░░░   62.92 % 
+tarea1-sudoku-juegos-com-3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.99 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+untitled                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 19:38:35 UTC
+ Last Updated on 21/04/2026 19:43:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
