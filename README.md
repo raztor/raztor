@@ -122,17 +122,17 @@ Last Updated: Friday, April 24th, 2026, 6:38:02 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.24%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.27%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-🌆 Daytime                259 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.60 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+🌆 Daytime                263 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.42 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 ```
 
 
@@ -140,28 +140,29 @@ Last Updated: Friday, April 24th, 2026, 6:38:02 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Markdown                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-C                        1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+C                        1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.68 % 
+Markdown                 1 hr                ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+Makefile                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+C/C++                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 50 mins       ███████████████░░░░░░░░░░   59.17 % 
-CLion                    3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
+CLion                    2 hrs 35 mins       ██████████████████░░░░░░░   72.07 % 
+WebStorm                 1 hr                ███████░░░░░░░░░░░░░░░░░░   27.93 % 
 
 🐱‍💻 Projects: 
-S211-P10-TicketMain      5 hrs 8 mins        ████████████████░░░░░░░░░   62.92 % 
-tarea1-sudoku-juegos-com-3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.99 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-untitled                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+tarea1-sudoku-juegos-com-2 hrs 35 mins       ██████████████████░░░░░░░   72.07 % 
+Temporis-CICD            55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+S211-P10-TicketMain      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+coffe-shop-cotizaciones  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Temporis-Back            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 19:45:24 UTC
+ Last Updated on 24/04/2026 19:26:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
