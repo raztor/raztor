@@ -129,10 +129,10 @@ Last Updated: Sunday, April 26th, 2026, 6:38:59 PM
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-🌆 Daytime                263 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.42 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+🌆 Daytime                264 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 ```
 
 
@@ -140,29 +140,29 @@ Last Updated: Sunday, April 26th, 2026, 6:38:59 PM
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.68 % 
-Markdown                 1 hr                ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-Makefile                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-C/C++                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+C                        1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.44 % 
+Markdown                 1 hr                █████████░░░░░░░░░░░░░░░░   35.65 % 
+YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Makefile                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-CLion                    2 hrs 35 mins       ██████████████████░░░░░░░   72.07 % 
-WebStorm                 1 hr                ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+CLion                    1 hr 28 mins        █████████████░░░░░░░░░░░░   51.92 % 
+WebStorm                 1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.08 % 
 
 🐱‍💻 Projects: 
-tarea1-sudoku-juegos-com-2 hrs 35 mins       ██████████████████░░░░░░░   72.07 % 
-Temporis-CICD            55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-S211-P10-TicketMain      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-coffe-shop-cotizaciones  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Temporis-Back            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+tarea1-sudoku-juegos-com-1 hr 28 mins        █████████████░░░░░░░░░░░░   51.92 % 
+Temporis-CICD            55 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
+app-cipe                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+S211-P10-TicketMain      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+backend                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Mac                      3 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/04/2026 19:15:04 UTC
+ Last Updated on 26/04/2026 19:25:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
