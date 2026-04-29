@@ -129,10 +129,10 @@ Last Updated: Wednesday, April 29th, 2026, 6:53:04 PM
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-🌆 Daytime                263 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.42 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+🌆 Daytime                264 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 ```
 
 
@@ -140,29 +140,28 @@ Last Updated: Wednesday, April 29th, 2026, 6:53:04 PM
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.44 % 
-Markdown                 1 hr                █████████░░░░░░░░░░░░░░░░   35.65 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Makefile                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Markdown                 1 hr 40 mins        ███████████░░░░░░░░░░░░░░   42.88 % 
+YAML                     1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   38.28 % 
+TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 Editors: 
-CLion                    1 hr 28 mins        █████████████░░░░░░░░░░░░   51.92 % 
-WebStorm                 1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.08 % 
+WebStorm                 3 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tarea1-sudoku-juegos-com-1 hr 28 mins        █████████████░░░░░░░░░░░░   51.92 % 
-Temporis-CICD            55 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
-app-cipe                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-S211-P10-TicketMain      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-backend                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Temporis-CICD            2 hrs 56 mins       ███████████████████░░░░░░   75.36 % 
+temporis-login           26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+app-cipe                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+S211-P10-TicketMain      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+backend                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 19:53:03 UTC
+ Last Updated on 29/04/2026 19:58:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
