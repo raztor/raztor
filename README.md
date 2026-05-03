@@ -118,7 +118,7 @@ Last Updated: Sunday, May 3rd, 2026, 6:45:15 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -136,28 +136,28 @@ Last Updated: Sunday, May 3rd, 2026, 6:45:15 PM
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-TypeScript               2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Prisma                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+TypeScript               8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.19 % 
+Markdown                 3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Prisma                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 55 mins       █████████████████████████   100.00 % 
+WebStorm                 17 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        9 hrs 11 mins       ███████████████████████░░   92.68 % 
-app-cipe                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-backend                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-S211-P10-TicketMain      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-coffe-shop-cotizaciones  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+clubes-montanismo        16 hrs 37 mins      ████████████████████████░   97.83 % 
+app-cipe                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+backend                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+S211-P10-TicketMain      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+coffe-shop-cotizaciones  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      9 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/05/2026 19:47:01 UTC
+ Last Updated on 03/05/2026 19:32:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
