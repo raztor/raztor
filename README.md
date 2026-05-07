@@ -122,7 +122,7 @@ Last Updated: Thursday, May 7th, 2026, 7:10:32 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,28 +140,28 @@ Last Updated: Thursday, May 7th, 2026, 7:10:32 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.81 % 
-Markdown                 3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Prisma                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript               16 hrs 41 mins      ████████████████░░░░░░░░░   65.65 % 
+Markdown                 3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Prisma                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 28 mins      █████████████████████████   100.00 % 
+WebStorm                 25 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        18 hrs 6 mins       ████████████████████████░   98.00 % 
-app-cipe                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-backend                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-S211-P10-TicketMain      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-coffe-shop-cotizaciones  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+clubes-montanismo        23 hrs 2 mins       ███████████████████████░░   90.62 % 
+coffe-shop-agentes       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+ghisella                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+openpanel-translations   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+S211-P10-TicketMain      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      18 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 19:56:48 UTC
+ Last Updated on 07/05/2026 19:58:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
