@@ -121,7 +121,7 @@ Last Updated: Saturday, May 16th, 2026, 6:51:32 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-638%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.31%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -139,30 +139,29 @@ Last Updated: Saturday, May 16th, 2026, 6:51:32 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               25 hrs 24 mins      ████████████████████░░░░░   78.86 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-SQL                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TypeScript               34 hrs 7 mins       ██████████████████░░░░░░░   70.76 % 
+Markdown                 4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+SQL                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Prisma                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-WebStorm                 25 hrs 31 mins      ████████████████████░░░░░   79.24 % 
-Unknown Editor           5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-CLion                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+WebStorm                 29 hrs 32 mins      ███████████████░░░░░░░░░░   61.27 % 
+Unknown Editor           18 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        25 hrs 27 mins      ████████████████████░░░░░   79.01 % 
-coffe-shop-agentes       3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-temporis-etl             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-openpanel-translations   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Temporis-Back            29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+clubes-montanismo        46 hrs 15 mins      ████████████████████████░   95.94 % 
+temporis-etl             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+ghisella                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+openpanel-translations   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      32 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/05/2026 20:11:51 UTC
+ Last Updated on 16/05/2026 19:38:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
