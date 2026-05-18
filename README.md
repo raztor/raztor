@@ -117,6 +117,8 @@ Last Updated: Monday, May 18th, 2026, 6:26:08 PM
 <br>
   
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2030%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.31%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -133,29 +135,29 @@ Last Updated: Monday, May 18th, 2026, 6:26:08 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               27 hrs 41 mins      █████████████████░░░░░░░░   68.58 % 
-Markdown                 4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-SQL                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Prisma                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+TypeScript               36 hrs 3 mins       ██████████████████░░░░░░░   72.87 % 
+Markdown                 4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+SQL                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Prisma                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-WebStorm                 21 hrs 41 mins      █████████████░░░░░░░░░░░░   53.75 % 
-Unknown Editor           18 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.25 % 
+WebStorm                 28 hrs 20 mins      ██████████████░░░░░░░░░░░   57.26 % 
+Unknown Editor           21 hrs 8 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        38 hrs 26 mins      ████████████████████████░   95.24 % 
-temporis-etl             49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-ghisella                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-openpanel-translations   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+clubes-montanismo        47 hrs 33 mins      ████████████████████████░   96.12 % 
+temporis-etl             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+ghisella                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+openpanel-translations   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Mac                      40 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      49 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/05/2026 19:43:36 UTC
+ Last Updated on 18/05/2026 20:09:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
