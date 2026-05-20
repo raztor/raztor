@@ -122,15 +122,15 @@ Last Updated: Wednesday, May 20th, 2026, 7:14:01 PM
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.32%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.33%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-🌆 Daytime                272 commits         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   39.03 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   38.94 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
 ```
 
 
@@ -138,29 +138,30 @@ Last Updated: Wednesday, May 20th, 2026, 7:14:01 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 hrs 18 mins      ██████████████████░░░░░░░   71.49 % 
-Markdown                 3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               34 hrs 23 mins      ██████████████████░░░░░░░   72.38 % 
+Markdown                 4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+JSON                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Other                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Prisma                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Unknown Editor           21 hrs 8 mins       █████████████░░░░░░░░░░░░   51.58 % 
-WebStorm                 19 hrs 51 mins      ████████████░░░░░░░░░░░░░   48.42 % 
+Unknown Editor           21 hrs 8 mins       ███████████░░░░░░░░░░░░░░   44.50 % 
+WebStorm                 20 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.33 % 
+Claude Code              6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        39 hrs 4 mins       ████████████████████████░   95.31 % 
-temporis-etl             49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-ghisella                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-openpanel-translations   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+clubes-montanismo        44 hrs 26 mins      ███████████████████████░░   93.54 % 
+Lab2-Fis                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+temporis-etl             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+ghisella                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+openpanel-translations   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Mac                      40 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      47 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2026 20:10:47 UTC
+ Last Updated on 20/05/2026 20:33:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
