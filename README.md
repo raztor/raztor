@@ -122,17 +122,15 @@ Last Updated: Friday, May 22nd, 2026, 7:23:40 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2028%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.33%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   30.07 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   38.94 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
 ```
 
 
@@ -140,28 +138,26 @@ Last Updated: Friday, May 22nd, 2026, 7:23:40 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 hrs 56 mins      ██████████████████░░░░░░░   70.34 % 
-Markdown                 3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-TeX                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               17 hrs 55 mins      ██████████████████░░░░░░░   71.40 % 
+Markdown                 2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+TeX                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 29 mins      █████████████████░░░░░░░░   68.88 % 
-WebStorm                 9 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
+Claude Code              18 hrs 56 mins      ███████████████████░░░░░░   75.47 % 
+WebStorm                 6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        29 hrs 48 mins      ████████████████████████░   95.56 % 
-Lab2-Fis                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-app-cipe                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+clubes-montanismo        23 hrs 57 mins      ████████████████████████░   95.43 % 
+Lab2-Fis                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Mac                      31 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/05/2026 20:17:56 UTC
+ Last Updated on 22/05/2026 20:17:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
