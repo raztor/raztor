@@ -121,6 +121,8 @@ Last Updated: Sunday, May 24th, 2026, 7:04:00 PM
 <br>
   
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%2037%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.32%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -137,26 +139,29 @@ Last Updated: Sunday, May 24th, 2026, 7:04:00 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 19 mins      ███████████████████░░░░░░   77.26 % 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-TeX                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               28 hrs 36 mins      ███████████████████░░░░░░   75.34 % 
+Markdown                 5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+TeX                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+SQL                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 53 mins      ███████████████████░░░░░░   74.80 % 
-WebStorm                 4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Claude Code              25 hrs 15 mins      █████████████████░░░░░░░░   66.49 % 
+WebStorm                 12 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.51 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        16 hrs 5 mins       ███████████████████████░░   93.35 % 
-Lab2-Fis                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+clubes-montanismo        35 hrs 35 mins      ███████████████████████░░   93.70 % 
+Lab2-Fis                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+coffe-shop-agentes       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Temporis-Back            22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Temporis-CICD            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      17 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2026 19:42:38 UTC
+ Last Updated on 24/05/2026 19:46:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
