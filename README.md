@@ -118,7 +118,7 @@ Last Updated: Tuesday, May 26th, 2026, 7:31:42 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.32%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -136,29 +136,29 @@ Last Updated: Tuesday, May 26th, 2026, 7:31:42 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 36 mins      ███████████████████░░░░░░   75.34 % 
-Markdown                 5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-TeX                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Other                    41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-SQL                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               24 hrs 28 mins      █████████████████░░░░░░░░   67.22 % 
+Markdown                 6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Other                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 15 mins      █████████████████░░░░░░░░   66.49 % 
-WebStorm                 12 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Claude Code              21 hrs 3 mins       ██████████████░░░░░░░░░░░   57.85 % 
+WebStorm                 15 hrs 20 mins      ███████████░░░░░░░░░░░░░░   42.15 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        35 hrs 35 mins      ███████████████████████░░   93.70 % 
-Lab2-Fis                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-coffe-shop-agentes       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Temporis-Back            22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Temporis-CICD            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+clubes-montanismo        30 hrs 32 mins      █████████████████████░░░░   83.88 % 
+Temporis-CICD            2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+app-cipe                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+backend_app_cipe         40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+coffe-shop-agentes       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Mac                      37 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 19:46:02 UTC
+ Last Updated on 26/05/2026 20:29:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
