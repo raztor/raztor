@@ -122,10 +122,47 @@ Last Updated: Friday, May 29th, 2026, 7:51:06 PM
 <br>
   
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2035%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.35%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 28/05/2026 20:41:29 UTC
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌆 Daytime                273 commits         ████████░░░░░░░░░░░░░░░░░   30.07 % 
+🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               26 hrs              ███████████████░░░░░░░░░░   60.37 % 
+Markdown                 8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Python                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Other                    1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+
+🔥 Editors: 
+Claude Code              27 hrs 28 mins      ████████████████░░░░░░░░░   63.75 % 
+WebStorm                 15 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   36.25 % 
+
+🐱‍💻 Projects: 
+clubes-montanismo        29 hrs 39 mins      █████████████████░░░░░░░░   68.82 % 
+Temporis-CICD            3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+app-cipe                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+backend_app_cipe         2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+acsim                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+
+💻 Operating System: 
+Mac                      43 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/05/2026 20:41:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
