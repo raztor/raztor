@@ -122,42 +122,12 @@ Last Updated: Monday, June 8th, 2026, 7:37:34 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-686.38%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2050%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-🌆 Daytime                276 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
-🌃 Evening                354 commits         ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-709.65%20thousand%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JSON                     5 hrs 3 mins        ████████████████░░░░░░░░░   62.09 % 
-TypeScript               1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-
-🔥 Editors: 
-Claude Code              6 hrs 8 mins        ███████████████████░░░░░░   75.50 % 
-WebStorm                 1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-
-🐱‍💻 Projects: 
-clubes-montanismo        8 hrs 7 mins        █████████████████████████   99.75 % 
-S211-P10-TicketMain      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-💻 Operating System: 
-Mac                      8 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 07/06/2026 19:53:44 UTC
+ Last Updated on 08/06/2026 20:38:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
