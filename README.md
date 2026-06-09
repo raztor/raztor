@@ -122,12 +122,50 @@ Last Updated: Tuesday, June 9th, 2026, 7:57:03 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-709.65%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-713.17%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌆 Daytime                271 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌃 Evening                359 commits         ██████████░░░░░░░░░░░░░░░   39.36 % 
+🌙 Night                  184 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+```
 
 
- Last Updated on 08/06/2026 20:38:29 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+TypeScript               2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+JSON                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+
+🔥 Editors: 
+Claude Code              7 hrs 26 mins       ██████████████████░░░░░░░   72.09 % 
+WebStorm                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Codex CLI                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+CLion                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+
+🐱‍💻 Projects: 
+clubes-montanismo        4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.73 % 
+proyecto-bdd             3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+temporis-etl             1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Temporis-CICD            39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+tarea2-morse-juegos-com  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+
+💻 Operating System: 
+Mac                      10 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/06/2026 20:24:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
