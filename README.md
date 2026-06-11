@@ -140,32 +140,32 @@ Last Updated: Thursday, June 11th, 2026, 6:40:54 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.09 % 
-Markdown                 6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-YAML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+TypeScript               10 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   40.99 % 
+Markdown                 6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+JavaScript               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+YAML                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 21 mins      ███████████████████████░░   93.22 % 
+Claude Code              24 hrs 18 mins      ███████████████████████░░   93.21 % 
 Codex CLI                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 WebStorm                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 CLion                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-Temporis-CICD            6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Temporis-Back            5 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-proyecto-bdd             3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-temporis-front           2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-clubes-montanismo        2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Temporis-CICD            6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Temporis-Back            5 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+proyecto-bdd             3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+temporis-front           2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+temporis-etl             2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 💻 Operating System: 
-Mac                      26 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      26 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 21:05:56 UTC
+ Last Updated on 11/06/2026 20:41:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
