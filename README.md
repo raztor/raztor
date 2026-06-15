@@ -120,17 +120,17 @@ Last Updated: Monday, June 15th, 2026, 8:35:47 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-724.48%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.24%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-🌆 Daytime                275 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌃 Evening                362 commits         ██████████░░░░░░░░░░░░░░░   39.35 % 
-🌙 Night                  185 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+🌆 Daytime                276 commits         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+🌃 Evening                363 commits         ██████████░░░░░░░░░░░░░░░   39.33 % 
+🌙 Night                  186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
 ```
 
 
@@ -138,32 +138,31 @@ Last Updated: Monday, June 15th, 2026, 8:35:47 PM
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-TypeScript               7 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-JavaScript               2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Markdown                 8 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.43 % 
+TypeScript               4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+JavaScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+JSON                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 26 mins      ███████████████████████░░   90.54 % 
-Codex CLI                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-WebStorm                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-VS Code                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-CLion                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Claude Code              14 hrs 59 mins      ██████████████████████░░░   89.64 % 
+VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+WebStorm                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Codex CLI                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        8 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
-Temporis-Back            3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-proyecto-bdd             3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Temporis-CICD            2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-temporis-front           2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+clubes-montanismo        13 hrs 38 mins      ████████████████████░░░░░   81.62 % 
+temporis-etl             1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+proyecto-bdd             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Temporis-CICD            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+coffe-shop-app           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      23 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2026 20:00:15 UTC
+ Last Updated on 15/06/2026 21:30:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
