@@ -121,17 +121,17 @@ Last Updated: Wednesday, June 17th, 2026, 7:17:31 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2021%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.24%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.23%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-🌆 Daytime                276 commits         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌃 Evening                363 commits         ██████████░░░░░░░░░░░░░░░   39.33 % 
-🌙 Night                  186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+🌆 Daytime                275 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌃 Evening                363 commits         ██████████░░░░░░░░░░░░░░░   39.37 % 
+🌙 Night                  186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 ```
 
 
@@ -139,31 +139,30 @@ Last Updated: Wednesday, June 17th, 2026, 7:17:31 PM
 
 ```text
 💬 Programming Languages: 
-Markdown                 21 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.37 % 
-TypeScript               15 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   31.33 % 
-JavaScript               4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JSON                     2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 20 hrs 8 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
+TypeScript               12 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+JavaScript               4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+JSON                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 52 mins      █████████████████████░░░░   82.89 % 
-VS Code                  7 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-WebStorm                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Claude Code              37 hrs 51 mins      █████████████████████░░░░   84.60 % 
+VS Code                  5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+WebStorm                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        45 hrs 49 mins      ███████████████████████░░   90.71 % 
-app-cipe                 1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-proyecto-bdd             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-backend_app_cipe         53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Deploy_Ministerio_Model_A16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+clubes-montanismo        43 hrs 38 mins      ████████████████████████░   97.53 % 
+proyecto-bdd             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+backend_app_cipe         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Deploy_Ministerio_Model_A6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Temporis-Mapa-Epicas     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      50 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 21:24:53 UTC
+ Last Updated on 17/06/2026 20:34:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
