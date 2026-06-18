@@ -122,7 +122,7 @@ Last Updated: Thursday, June 18th, 2026, 6:39:03 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.23%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,30 +140,30 @@ Last Updated: Thursday, June 18th, 2026, 6:39:03 PM
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 hrs 8 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
-TypeScript               12 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-JavaScript               4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-JSON                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Markdown                 22 hrs 29 mins      █████████████░░░░░░░░░░░░   50.46 % 
+TypeScript               10 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+JavaScript               4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+JSON                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Claude Code              37 hrs 51 mins      █████████████████████░░░░   84.60 % 
-VS Code                  5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-WebStorm                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Claude Code              38 hrs 5 mins       █████████████████████░░░░   85.48 % 
+VS Code                  5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+WebStorm                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        43 hrs 38 mins      ████████████████████████░   97.53 % 
-proyecto-bdd             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+clubes-montanismo        42 hrs 51 mins      ████████████████████████░   96.15 % 
+temporis-login           34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Temporis-CICD            19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 backend_app_cipe         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Deploy_Ministerio_Model_A6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Temporis-Mapa-Epicas     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Temporis-Mapa-Epicas     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Mac                      44 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 20:34:41 UTC
+ Last Updated on 18/06/2026 20:43:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
