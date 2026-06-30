@@ -6,7 +6,7 @@
     
 
 ## 💫 About Me:
-I am a Computer Engineering student passionate about **system architecture, cloud infrastructure, and software development**. I have experience in backend and frontend development with **Python, JavaScript/TypeScript, Node.js, and React/Expo**, as well as solid knowledge of **Linux servers, Docker, Kubernetes, NGINX, containerization, and virtualization** for building scalable and reliable systems.  
+I am a Software Engineering student passionate about **system architecture, cloud infrastructure, and software development**. I have experience in backend and frontend development with **Python, JavaScript/TypeScript, Node.js, and React/Expo**, as well as solid knowledge of **Linux servers, Docker, Kubernetes, NGINX, containerization, and virtualization** for building scalable and reliable systems.  
 
 I emphasize **clean architecture, automation, and documentation** as foundations for maintainability, using **CI/CD pipelines** to improve workflows and ensure consistency.  
 
