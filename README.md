@@ -140,31 +140,31 @@ Last Updated: Friday, July 10th, 2026, 6:54:41 PM
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   36.93 % 
-TypeScript               10 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   36.07 % 
-SQL                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-JavaScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Prisma                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.68 % 
+TypeScript               9 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
+JavaScript               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Prisma                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 52 mins      █████████████████████░░░░   83.14 % 
-VS Code                  2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-DataGrip                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-WebStorm                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Claude Code              18 hrs 46 mins      ███████████████████░░░░░░   76.57 % 
+VS Code                  5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+WebStorm                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        27 hrs 51 mins      ███████████████████████░░   93.09 % 
-Ejercicios Prueba 1      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+clubes-montanismo        23 hrs 50 mins      ████████████████████████░   97.20 % 
+Demo_PDI                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Ejercicios Prueba 1      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Temporis-CICD            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-temporis-etl             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2026 20:15:15 UTC
+ Last Updated on 10/07/2026 19:57:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
