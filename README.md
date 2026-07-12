@@ -122,7 +122,7 @@ Last Updated: Sunday, July 12th, 2026, 6:52:46 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737.05%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,31 +140,30 @@ Last Updated: Sunday, July 12th, 2026, 6:52:46 PM
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.68 % 
-TypeScript               9 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
-JavaScript               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Prisma                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TypeScript               5 hrs 30 mins       █████████████████░░░░░░░░   66.75 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 46 mins      ███████████████████░░░░░░   76.57 % 
-VS Code                  5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-WebStorm                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+VS Code                  4 hrs 38 mins       ██████████████░░░░░░░░░░░   56.20 % 
+Claude Code              3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
+WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+PyCharm                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        23 hrs 50 mins      ████████████████████████░   97.20 % 
-Demo_PDI                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Ejercicios Prueba 1      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Temporis-CICD            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+clubes-montanismo        7 hrs 18 mins       ██████████████████████░░░   88.53 % 
+Demo_PDI                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+MOVILIA-VIDEO-API        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+modelo                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      24 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2026 19:57:50 UTC
+ Last Updated on 12/07/2026 19:36:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
