@@ -140,30 +140,29 @@ Last Updated: Tuesday, July 14th, 2026, 7:04:31 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 30 mins       █████████████████░░░░░░░░   66.75 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+TypeScript               2 hrs 32 mins       █████████████████░░░░░░░░   68.87 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       ██████████████░░░░░░░░░░░   56.20 % 
-Claude Code              3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-PyCharm                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Claude Code              3 hrs 12 mins       ██████████████████████░░░   87.18 % 
+VS Code                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+PyCharm                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        7 hrs 18 mins       ██████████████████████░░░   88.53 % 
-Demo_PDI                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-MOVILIA-VIDEO-API        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-modelo                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+clubes-montanismo        3 hrs 12 mins       ██████████████████████░░░   87.23 % 
+MOVILIA-VIDEO-API        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+modelo                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Mac                      8 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/07/2026 19:36:52 UTC
+ Last Updated on 14/07/2026 19:50:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
