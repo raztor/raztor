@@ -140,29 +140,26 @@ Last Updated: Wednesday, July 15th, 2026, 6:56:47 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       █████████████████░░░░░░░░   68.87 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Python                   15 mins             ██████████████░░░░░░░░░░░   56.14 % 
+GitIgnore file           8 mins              ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Docker                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+.env file                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 12 mins       ██████████████████████░░░   87.18 % 
-VS Code                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-PyCharm                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  17 mins             ████████████████░░░░░░░░░   63.07 % 
+PyCharm                  10 mins             █████████░░░░░░░░░░░░░░░░   36.93 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        3 hrs 12 mins       ██████████████████████░░░   87.23 % 
-MOVILIA-VIDEO-API        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-modelo                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+MOVILIA-VIDEO-API        25 mins             ███████████████████████░░   91.21 % 
+modelo                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 
 💻 Operating System: 
-Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/07/2026 19:50:58 UTC
+ Last Updated on 15/07/2026 19:44:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
