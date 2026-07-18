@@ -140,26 +140,20 @@ Last Updated: Saturday, July 18th, 2026, 6:50:12 PM
 
 ```text
 💬 Programming Languages: 
-Python                   15 mins             ██████████████░░░░░░░░░░░   56.14 % 
-GitIgnore file           8 mins              ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-Docker                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-.env file                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             ████████████████░░░░░░░░░   63.07 % 
-PyCharm                  10 mins             █████████░░░░░░░░░░░░░░░░   36.93 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MOVILIA-VIDEO-API        25 mins             ███████████████████████░░   91.21 % 
-modelo                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/07/2026 19:38:23 UTC
+ Last Updated on 18/07/2026 19:39:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
