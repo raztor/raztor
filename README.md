@@ -138,29 +138,29 @@ Last Updated: Friday, July 24th, 2026, 6:53:02 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               31 hrs 46 mins      █████████████████░░░░░░░░   67.02 % 
-Markdown                 10 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-JSON                     2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+TypeScript               30 hrs 28 mins      █████████████████░░░░░░░░   67.42 % 
+Markdown                 10 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+JSON                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-WebStorm                 31 hrs 41 mins      █████████████████░░░░░░░░   66.82 % 
-VS Code                  15 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.18 % 
+WebStorm                 31 hrs 11 mins      █████████████████░░░░░░░░   68.98 % 
+VS Code                  14 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.02 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        43 hrs 19 mins      ███████████████████████░░   91.38 % 
-Unknown Project          2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-MOVILIA-VIDEO-API        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-smart-transit-ads        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-CIPE-Deploy              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+clubes-montanismo        41 hrs 8 mins       ███████████████████████░░   90.99 % 
+Unknown Project          2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+MOVILIA-VIDEO-API        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+smart-transit-ads        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+CIPE-Deploy              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      47 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/07/2026 19:54:04 UTC
+ Last Updated on 24/07/2026 19:53:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
