@@ -122,7 +122,7 @@ Last Updated: Sunday, July 26th, 2026, 6:58:09 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737.05%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,29 +140,29 @@ Last Updated: Sunday, July 26th, 2026, 6:58:09 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               42 hrs 58 mins      ███████████████████░░░░░░   75.68 % 
-Markdown                 6 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-JSON                     3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-JavaScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TypeScript               35 hrs 20 mins      ██████████████████░░░░░░░   73.44 % 
+Markdown                 5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JSON                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-WebStorm                 36 hrs 1 min        ████████████████░░░░░░░░░   63.43 % 
-VS Code                  20 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   36.57 % 
+WebStorm                 28 hrs 27 mins      ███████████████░░░░░░░░░░   59.14 % 
+VS Code                  19 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.86 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        52 hrs 25 mins      ███████████████████████░░   92.33 % 
-Unknown Project          2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-MOVILIA-VIDEO-API        47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-smart-transit-ads        42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-CIPE-Deploy              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+clubes-montanismo        43 hrs 46 mins      ███████████████████████░░   90.95 % 
+Unknown Project          2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+MOVILIA-VIDEO-API        47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+smart-transit-ads        42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+CIPE-Deploy              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      56 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      48 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 19:41:02 UTC
+ Last Updated on 26/07/2026 19:42:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
