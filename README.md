@@ -122,7 +122,9 @@ Last Updated: Monday, July 27th, 2026, 6:52:17 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-536%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737.05%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -140,29 +142,52 @@ Last Updated: Monday, July 27th, 2026, 6:52:17 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               35 hrs 20 mins      ██████████████████░░░░░░░   73.44 % 
-Markdown                 5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-JSON                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+TypeScript               25 hrs 56 mins      █████████████████░░░░░░░░   69.45 % 
+Markdown                 5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+JSON                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-WebStorm                 28 hrs 27 mins      ███████████████░░░░░░░░░░   59.14 % 
-VS Code                  19 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.86 % 
+WebStorm                 20 hrs 14 mins      ██████████████░░░░░░░░░░░   54.17 % 
+VS Code                  17 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.83 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        43 hrs 46 mins      ███████████████████████░░   90.95 % 
-Unknown Project          2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-MOVILIA-VIDEO-API        47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-smart-transit-ads        42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-CIPE-Deploy              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+clubes-montanismo        33 hrs 10 mins      ██████████████████████░░░   88.83 % 
+Unknown Project          2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+MOVILIA-VIDEO-API        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+smart-transit-ads        42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+CIPE-Deploy              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      48 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      37 hrs 21 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 37 hrs 1 min (99.14%)
+
+✍️ 60,460 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,174,102,760 Input Tokens, 7,801,680 Output Tokens
+
+💵 $8998.50 Estimated AI Cost This Week
+
+🧠 320 AI Sessions, 1091 AI Prompts
+
+GPT                      63,599 lines        █████████████████████████   98.66 % 
+Vscode-Wakatime          866 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 30,236 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:42:04 UTC
+ Last Updated on 27/07/2026 20:02:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
