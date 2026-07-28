@@ -122,10 +122,6 @@ Last Updated: Tuesday, July 28th, 2026, 7:09:34 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-536%20hrs%2029%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737.05%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -142,52 +138,52 @@ Last Updated: Tuesday, July 28th, 2026, 7:09:34 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               25 hrs 56 mins      █████████████████░░░░░░░░   69.45 % 
-Markdown                 5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-JSON                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TypeScript               21 hrs 22 mins      ██████████████████░░░░░░░   70.04 % 
+Markdown                 3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+JSON                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-WebStorm                 20 hrs 14 mins      ██████████████░░░░░░░░░░░   54.17 % 
-VS Code                  17 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.83 % 
+WebStorm                 16 hrs 37 mins      ██████████████░░░░░░░░░░░   54.48 % 
+VS Code                  13 hrs 53 mins      ███████████░░░░░░░░░░░░░░   45.52 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        33 hrs 10 mins      ██████████████████████░░░   88.83 % 
-Unknown Project          2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-MOVILIA-VIDEO-API        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-smart-transit-ads        42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-CIPE-Deploy              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+clubes-montanismo        27 hrs 27 mins      ██████████████████████░░░   89.97 % 
+Unknown Project          1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+MOVILIA-VIDEO-API        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+smart-transit-ads        34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+CIPE-Deploy              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      37 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 1 min (99.14%)
+⏱ AI Coding Time: 30 hrs 12 mins (98.94%)
 
-✍️ 60,460 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 51,960 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,174,102,760 Input Tokens, 7,801,680 Output Tokens
+🔤 2,080,586,292 Input Tokens, 4,893,154 Output Tokens
 
-💵 $8998.50 Estimated AI Cost This Week
+💵 $7107.92 Estimated AI Cost This Week
 
-🧠 320 AI Sessions, 1091 AI Prompts
+🧠 277 AI Sessions, 866 AI Prompts
 
-GPT                      63,599 lines        █████████████████████████   98.66 % 
-Vscode-Wakatime          866 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+GPT                      54,352 lines        █████████████████████████   98.43 % 
+Vscode-Wakatime          866 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 30,236 characters per prompt
+📚 Verbose Prompter — average 31,284 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 20:02:26 UTC
+ Last Updated on 28/07/2026 19:58:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
