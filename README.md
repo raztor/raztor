@@ -122,15 +122,19 @@ Last Updated: Thursday, July 30th, 2026, 6:52:20 PM
 <br>
   
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737.05%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-536%20hrs%2029%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-751.21%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-🌆 Daytime                251 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌃 Evening                367 commits         ██████████░░░░░░░░░░░░░░░   40.37 % 
-🌙 Night                  193 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+🌆 Daytime                252 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌃 Evening                370 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌙 Night                  197 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
 ```
 
 
@@ -138,52 +142,51 @@ Last Updated: Thursday, July 30th, 2026, 6:52:20 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               21 hrs 22 mins      ██████████████████░░░░░░░   70.04 % 
-Markdown                 3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-JSON                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+TypeScript               12 hrs 45 mins      ███████████████████░░░░░░   74.06 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-WebStorm                 16 hrs 37 mins      ██████████████░░░░░░░░░░░   54.48 % 
-VS Code                  13 hrs 53 mins      ███████████░░░░░░░░░░░░░░   45.52 % 
+VS Code                  9 hrs 23 mins       ██████████████░░░░░░░░░░░   54.54 % 
+WebStorm                 7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.46 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        27 hrs 27 mins      ██████████████████████░░░   89.97 % 
-Unknown Project          1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-MOVILIA-VIDEO-API        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-smart-transit-ads        34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-CIPE-Deploy              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+clubes-montanismo        16 hrs 34 mins      ████████████████████████░   96.23 % 
+smart-transit-ads        26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+CIPE-Deploy              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+frontend                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      30 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 12 mins (98.94%)
+⏱ AI Coding Time: 17 hrs 10 mins (99.72%)
 
-✍️ 51,960 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 39,593 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,080,586,292 Input Tokens, 4,893,154 Output Tokens
+🔤 1,462,400,754 Input Tokens, 3,647,222 Output Tokens
 
-💵 $7107.92 Estimated AI Cost This Week
+💵 $4631.96 Estimated AI Cost This Week
 
-🧠 277 AI Sessions, 866 AI Prompts
+🧠 233 AI Sessions, 533 AI Prompts
 
-GPT                      54,352 lines        █████████████████████████   98.43 % 
-Vscode-Wakatime          866 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+GPT                      41,422 lines        ████████████████████████░   97.95 % 
+Vscode-Wakatime          866 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 31,284 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 36,758 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 19:58:51 UTC
+ Last Updated on 30/07/2026 20:00:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
