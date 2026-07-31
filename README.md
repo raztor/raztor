@@ -126,15 +126,15 @@ Last Updated: Friday, July 31st, 2026, 6:49:32 PM
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-536%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-751.21%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-751.23%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-🌆 Daytime                252 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌃 Evening                370 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌙 Night                  197 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+🌆 Daytime                253 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌃 Evening                370 commits         ██████████░░░░░░░░░░░░░░░   40.31 % 
+🌙 Night                  197 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
 ```
 
 
@@ -142,51 +142,47 @@ Last Updated: Friday, July 31st, 2026, 6:49:32 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 45 mins      ███████████████████░░░░░░   74.06 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript               1 hr 45 mins        ████████████████████████░   97.35 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 23 mins       ██████████████░░░░░░░░░░░   54.54 % 
-WebStorm                 7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.46 % 
+VS Code                  1 hr 35 mins        ██████████████████████░░░   87.72 % 
+WebStorm                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        16 hrs 34 mins      ████████████████████████░   96.23 % 
-smart-transit-ads        26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-CIPE-Deploy              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-frontend                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+clubes-montanismo        1 hr 46 mins        █████████████████████████   98.65 % 
+smart-transit-ads        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Mac                      17 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 10 mins (99.72%)
+⏱ AI Coding Time: 1 hr 45 mins (97.37%)
 
-✍️ 39,593 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 548 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,462,400,754 Input Tokens, 3,647,222 Output Tokens
+🔤 71,466,234 Input Tokens, 384,285 Output Tokens
 
-💵 $4631.96 Estimated AI Cost This Week
+💵 $411.55 Estimated AI Cost This Week
 
-🧠 233 AI Sessions, 533 AI Prompts
+🧠 12 AI Sessions, 23 AI Prompts
 
-GPT                      41,422 lines        ████████████████████████░   97.95 % 
-Vscode-Wakatime          866 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+GPT                      1,518 lines         █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 36,758 characters per prompt
+📚 Verbose Prompter — average 14,491 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 20:00:00 UTC
+ Last Updated on 31/07/2026 20:00:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
