@@ -142,47 +142,46 @@ Last Updated: Saturday, August 1st, 2026, 6:56:15 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 45 mins        ████████████████████████░   97.35 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               1 hr                ████████████████████████░   95.47 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        ██████████████████████░░░   87.72 % 
-WebStorm                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+VS Code                  57 mins             ███████████████████████░░   91.42 % 
+WebStorm                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        1 hr 46 mins        █████████████████████████   98.65 % 
-smart-transit-ads        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+clubes-montanismo        1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (97.37%)
+⏱ AI Coding Time: 1 hr (95.47%)
 
-✍️ 548 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 482 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 71,466,234 Input Tokens, 384,285 Output Tokens
+🔤 20,945,234 Input Tokens, 83,445 Output Tokens
 
-💵 $411.55 Estimated AI Cost This Week
+💵 $106.46 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 23 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-GPT                      1,518 lines         █████████████████████████   100.00 % 
+GPT                      541 lines           █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 14,491 characters per prompt
+📚 Verbose Prompter — average 4,954 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 20:00:48 UTC
+ Last Updated on 01/08/2026 19:41:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
