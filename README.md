@@ -141,53 +141,52 @@ Last Updated: Tuesday, September 1st, 2026, 7:02:16 PM
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.11 % 
-Markdown                 2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-JavaScript               2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+TypeScript               2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Markdown                 1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+JavaScript               1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+JSON                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
-Codex Vscode             3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.96 % 
-WebStorm                 3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+PyCharm                  4 hrs 39 mins       ███████████████░░░░░░░░░░   58.50 % 
+Codex Vscode             2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
+WebStorm                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🐱‍💻 Projects: 
-clubes-montanismo        7 hrs 4 mins        ████████████████░░░░░░░░░   63.05 % 
-kairos                   2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-andishub-2904            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-app.js                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-MOVILIA-VIDEO-API        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+clubes-montanismo        5 hrs 11 mins       ████████████████░░░░░░░░░   65.21 % 
+kairos                   2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+MOVILIA-VIDEO-API        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+openpanel-translations   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 6 mins (98.94%)
+⏱ AI Coding Time: 7 hrs 50 mins (98.5%)
 
-✍️ 12,457 lines written by AI, 32 lines written by hand (99.74% AI-written)
+✍️ 10,865 lines written by AI, 32 lines written by hand (99.71% AI-written)
 
-🔤 14,145,824 Input Tokens, 1,282,756 Output Tokens
+🔤 9,480,426 Input Tokens, 921,210 Output Tokens
 
-💵 $286.46 Estimated AI Cost This Week
+💵 $180.48 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 280 AI Prompts
+🧠 63 AI Sessions, 216 AI Prompts
 
-GPT                      13,358 lines        ████████████████████████░   97.88 % 
-Codex-Vscode             290 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+GPT                      11,909 lines        ████████████████████████░   97.86 % 
+Codex-Vscode             261 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 22,449 characters per prompt
+🤖 AI-Driven — 99.71% of written lines came from AI
+📚 Verbose Prompter — average 21,920 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🚀 High AI Trust — 0.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 22:58:04 UTC
+ Last Updated on 01/09/2026 21:11:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
